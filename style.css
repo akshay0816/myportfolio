@@ -14,7 +14,7 @@ body .paragraph{
 	width: 100%;
 	z-index: 999;
 	padding:1rem 5rem 0.5rem 5rem; 
-	background: white;  
+	background: red;  
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .header .navbar-right {
